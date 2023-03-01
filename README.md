@@ -1,0 +1,2 @@
+# neodecima.github.io
+curriculum
